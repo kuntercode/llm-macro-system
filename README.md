@@ -13,7 +13,7 @@ This repository contains a macro system configuration designed to streamline and
 
 ## 🚀 How to Use
 
-1. **Copy the contents** of `macro_setup_prompt_cleaned.txt`.
+1. **Copy the contents** of `macro_setup_prompt.txt`.
 2. **Paste it into a new chat** with your AI assistant to initialize the macro system.
 3. Start using macros immediately by prefixing commands with `;` (semicolon).
 
