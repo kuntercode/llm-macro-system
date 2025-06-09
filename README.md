@@ -1,5 +1,5 @@
 
-# Custom Macro System for AI Chat
+# Chat Macro System
 
 This repository contains a macro system configuration designed to streamline and enhance interactions with AI assistants like ChatGPT. It allows users to trigger specific response formats, styles, or helper actions using simple macro commands.
 
