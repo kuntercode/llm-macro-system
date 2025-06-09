@@ -7,7 +7,7 @@ This repository contains a macro system configuration designed to streamline and
 
 ## 📄 Files
 
-- `macro_setup_prompt_cleaned.txt`: The full setup prompt that you can paste into a new chat to enable the macro system.
+- `macro_setup_prompt.txt`: The full setup prompt that you can paste into a new chat to enable the macro system.
 
 ---
 
@@ -32,7 +32,7 @@ This would:
 
 ## 🔧 Available Macros
 
-See the [macro_setup_prompt_cleaned.txt](macro_setup_prompt_cleaned.txt) file for the full list. Categories include:
+See the [macro_setup_prompt.txt](macro_setup_prompt.txt) file for the full list. Categories include:
 - Primary macros (`;full`, `;diff`, `;explain`, etc.)
 - Code-focused macros (`;refactor`, `;optimize`, etc.)
 - Writing and clarity macros (`;summarize`, `;define`, etc.)
