@@ -1,0 +1,132 @@
+
+Macro System Setup for New Chat
+
+This prompt initializes a custom macro system for consistent and efficient communication.
+
+---
+
+Macro Prefix Rules
+- `;` → Triggers a macro (e.g., `;full`, `;diff`, `;explain`)
+- `=` → Sets a default macro mode (`=full`, `=diff`, `=null`)
+
+---
+
+Primary Macros
+- `;full` – Reply with the entire updated code.
+- `;diff` – Reply with only the changed/added code, and where to insert it.
+- `;explain` – Add a brief explanation of the code or changes.
+- `;brief` – Respond with a short summary only.
+- `;step` – Provide step-by-step instructions.
+- `;test` – Include relevant test cases or examples.
+- `;note` – Add inline comments in the code explaining logic.
+
+---
+
+Aliases for Macros
+- `;f` → `;full`
+- `;d` → `;diff`
+- `;e` → `;explain`
+
+---
+
+Code-Focused Macros
+- `;refactor` (`;r`) – Clean up or restructure code.
+- `;optimize` (`;o`) – Improve performance or memory usage.
+- `;alt` (`;a`) – Provide an alternate implementation.
+- `;comment` (`;c`) – Add or improve inline comments.
+- `;types` (`;t`) – Add or clarify type annotations.
+- `;lint` (`;l`) – Apply standard code style/formatting.
+- `;doc` (`;d`) – Generate documentation blocks.
+
+---
+
+Writing & Clarity Macros
+- `;summarize` (`;s`) – Create a summary of a larger section.
+- `;expand` (`;x`) – Expand/explain a concept more deeply.
+- `;define` (`;df`) – Define key terms used.
+
+---
+
+Workflow & Utility Macros
+- `;shell` (`;sh`) – Generate terminal/shell commands.
+- `;env` – Describe or set up the runtime environment.
+- `;deps` – List or explain project dependencies.
+- `;checklist` (`;cl`) – Generate a checklist from tasks.
+
+---
+
+Default Macro Modes
+- `=full` (`=f`) – Use `;full` automatically.
+- `=diff` (`=d`) – Use `;diff` automatically.
+- `=null` (`=n`) – Disable automatic macros. Use them manually each time.
+
+---
+
+Macro System Uninstall
+- `;uninstall-macros` – Forget all custom macros, aliases, and rules.
+
+Macro System Setup for New Chat
+
+This prompt initializes a custom macro system for consistent and efficient communication.
+
+---
+
+Macro Prefix Rules
+- `;` → Triggers a macro (e.g., `;full`, `;diff`, `;explain`)
+- `=` → Sets a default macro mode (`=full`, `=diff`, `=null`)
+
+---
+
+Primary Macros
+- `;full` – Reply with the entire updated code.
+- `;diff` – Reply with only the changed/added code, and where to insert it.
+- `;explain` – Add a brief explanation of the code or changes.
+- `;brief` – Respond with a short summary only.
+- `;step` – Provide step-by-step instructions.
+- `;test` – Include relevant test cases or examples.
+- `;note` – Add inline comments in the code explaining logic.
+
+---
+
+Aliases for Macros
+- `;f` → `;full`
+- `;d` → `;diff`
+- `;e` → `;explain`
+
+---
+
+Code-Focused Macros
+- `;refactor` (`;r`) – Clean up or restructure code.
+- `;optimize` (`;o`) – Improve performance or memory usage.
+- `;alt` (`;a`) – Provide an alternate implementation.
+- `;comment` (`;c`) – Add or improve inline comments.
+- `;types` (`;t`) – Add or clarify type annotations.
+- `;lint` (`;l`) – Apply standard code style/formatting.
+- `;doc` (`;d`) – Generate documentation blocks.
+
+---
+
+Writing & Clarity Macros
+- `;summarize` (`;s`) – Create a summary of a larger section.
+- `;expand` (`;x`) – Expand/explain a concept more deeply.
+- `;define` (`;df`) – Define key terms used.
+
+---
+
+Workflow & Utility Macros
+- `;shell` (`;sh`) – Generate terminal/shell commands.
+- `;env` – Describe or set up the runtime environment.
+- `;deps` – List or explain project dependencies.
+- `;checklist` (`;cl`) – Generate a checklist from tasks.
+
+---
+
+Default Macro Modes
+- `=full` (`=f`) – Use `;full` automatically.
+- `=diff` (`=d`) – Use `;diff` automatically.
+- `=null` (`=n`) – Disable automatic macros. Use them manually each time.
+
+---
+
+Macro System Uninstall
+- `;uninstall-macros` – Forget all custom macros, aliases, and rules.
